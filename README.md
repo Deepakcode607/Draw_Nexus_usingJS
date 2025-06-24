@@ -1,5 +1,5 @@
 # Draw_Nexus_usingJS
-# 🎨 Draw Nexus
+# 🎨 Draw Nexus 
 
 **Draw Nexus** is a lightweight, browser-based drawing application built using **HTML5**, **CSS3**, and **vanilla JavaScript**. It offers a responsive canvas for freehand sketching — perfect for quick notes, wireframes, or creative ideas.
 
